@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flashy Light</string>
+    <string name="notSupported"> sorry this device doesnot suport flash</string>
+</resources>
